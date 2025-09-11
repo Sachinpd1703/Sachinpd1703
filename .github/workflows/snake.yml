@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: Sachinpd-1703
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.svg?color_snake=blue&color_dots=#bfd4f2,#6696e0,#4278ca,#2159ac,#0c3a80
+            dist/github-contribution-grid-snake-dark.svg?color_snake=cyan&color_dots=#16
 
       - name: 🔧 Setup Git
         run: |
