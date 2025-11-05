@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <h1>Hi there, I'm Sachin! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdpcGU4dXpwYTR4c3g2bDR5c3U5d3Z1dDE0M2RrdjV2cGo5bm5qZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wj7lNjMNDx1e38pd1s/giphy.gif" width="30"></h1>
+  <h1>Hi there, I'm Sachin! </h1>
   <h3>Software Developer | AI Enthusiast | Game Dev Explorer</h3>
   
   <a href="https://komarev.com/ghpvc/?username=Sachinpd-1703&style=flat-square&color=blueviolet" target="_blank">
