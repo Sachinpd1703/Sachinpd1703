@@ -34,16 +34,20 @@
   </tr>
   <tr>
     <td>
-      <h3 align="center">📊 My GitHub Stats</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sachinpd-1703&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinpd-1703&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-        <br><br>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Sachinpd-1703&theme=radical&hide_border=true" alt="GitHub Streak">
-        <br><br>
-        <img src="https://github-profile-trophy.vercel.app/?username=Sachinpd-1703&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="Trophy">
-      </div>
+<h3 align="center">📊 My GitHub Stats</h3>
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sachinpd1703&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <!-- Streak Stats (Fixed) -->
+  <img src="https://streak-stats.demolab.com?user=Sachinpd1703&theme=radical&hide_border=true" />
+
+  <br><br>
+
+  <!-- Trophy -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Sachinpd1703&theme=radical&margin-w=15&margin-h=15&no-frame=true" /> -->
+
+</div>
     </td>
   </tr>
 </table>
