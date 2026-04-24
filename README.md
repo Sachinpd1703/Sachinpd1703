@@ -21,20 +21,20 @@
       <h3>👋 About Me</h3>
       <p>I'm passionate about building secure systems, exploring AI frontiers, and diving into creative game development. I enjoy bridging the gap between robust backend systems and immersive digital experiences.</p>
       <ul>
-        <li>🔐 Currently building a <b>secure authenticator system</b> with advanced security patterns.</li>
-        <li>🤖 Exploring <b>AI and automation projects</b> that solve real-world problems.</li>
-        <li>🎮 Learning <b>Unreal Engine</b> for game development and <b>Blender</b> for 3D modeling.</li>
-        <li>📚 Deepening my knowledge in <b>advanced C++</b> and <b>scalable system design</b>.</li>
-        <li>🤝 Open to collaborating on <b>open-source AI tools</b>, <b>indie games</b>, and <b>secure backend solutions</b>.</li>
+        <li> Currently building a <b>secure authenticator system</b> with advanced security patterns.</li>
+        <li> Exploring <b>AI and automation projects</b> that solve real-world problems.</li>
+        <li> Learning <b>Unreal Engine</b> for game development and <b>Blender</b> for 3D modeling.</li>
+        <li> Deepening my knowledge in <b>advanced C++</b> and <b>scalable system design</b>.</li>
+        <li> Open to collaborating on <b>open-source AI tools</b>, <b>indie games</b>, and <b>secure backend solutions</b>.</li>
       </ul>
       <hr>
-      <h3>💡 Fun Fact</h3>
+      <h3> Fun Fact</h3>
       <p>I believe the best software comes from mixing logic with creativity — whether I'm architecting secure systems or brainstorming comedy-horror game concepts that make players laugh and jump at the same time! 😄👻</p>
     </td>
   </tr>
   <tr>
     <td>
-<h3 align="center">📊 My GitHub Stats</h3>
+<h3 align="center">My GitHub Stats</h3>
 <div align="center">
 
   <!-- GitHub Stats -->
