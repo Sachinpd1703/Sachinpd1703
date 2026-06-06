@@ -54,7 +54,7 @@
 
 ---
 
-## 🛠️ My Tech Arsenal
+## My Tech Arsenal
 
 <div align="center">
 
@@ -102,7 +102,7 @@
 
 ---
 
-### 🐍 My GitHub Contribution Snake
+### My GitHub Contribution Snake
 
 <div align="center">
   <picture>
