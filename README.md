@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>
-      <h3>👋 About Me</h3>
+      <h3>About Me</h3>
       <p>I'm passionate about building secure systems, exploring AI frontiers, and diving into creative game development. I enjoy bridging the gap between robust backend systems and immersive digital experiences.</p>
       <ul>
         <li> Currently building a <b>secure authenticator system</b> with advanced security patterns.</li>
